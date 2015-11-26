@@ -1,0 +1,5 @@
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UBSCMTDevTest\obj\Debug\UBSCMTDevTest.csprojResolveAssemblyReference.cache
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UBSCMTDevTest\bin\Debug\UBSCMTDevTest.dll
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UBSCMTDevTest\bin\Debug\UBSCMTDevTest.pdb
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UBSCMTDevTest\obj\Debug\UBSCMTDevTest.dll
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UBSCMTDevTest\obj\Debug\UBSCMTDevTest.pdb

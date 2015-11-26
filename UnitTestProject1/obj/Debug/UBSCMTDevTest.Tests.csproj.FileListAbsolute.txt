@@ -1,0 +1,7 @@
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UnitTestProject1\obj\Debug\UBSCMTDevTest.Tests.csprojResolveAssemblyReference.cache
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UnitTestProject1\bin\Debug\UBSCMTDevTest.dll
+\\ls220dffe\hillview\roamingusers\userdata$\finna\documents\visual studio 2013\Projects\UBSCMTDevTest\UnitTestProject1\bin\Debug\UBSCMTDevTest.pdb
